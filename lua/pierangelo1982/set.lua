@@ -12,4 +12,4 @@ vim.opt.shiftwidth = 4
 vim.opt.expandtab = true
 
 vim.opt.termguicolors = true
---- vim.opt.background = "dark"
+vim.opt.background = "dark"
